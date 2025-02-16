@@ -71,3 +71,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+SurvivalShooting_Project/.idea/
+SurvivalShooting_Project/Library/
+SurvivalShooting_Project/UserSettings/
+SurvivalShooting_Project/obj/
