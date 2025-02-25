@@ -163,7 +163,7 @@
       "dependencies": {
         "com.unity.addressables": "1.21.21"
       },
-      "hash": "58bba7b7a8553488b84fcb2556e48b3a13ff0731"
+      "hash": "6ee9cd28b44416f9031224ffc9eb4009795e0245"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
